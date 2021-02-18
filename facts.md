@@ -1,4 +1,5 @@
 - A group of owls is called a parliament of owls
+- A swallow can carry a coconut
 - The first computer virus was created in 1983.
 - A group of cats is called a clowder of cats
 - The evolution and use of JavaScript, a language developed in 10 days back in 1995!
