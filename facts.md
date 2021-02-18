@@ -1,4 +1,5 @@
 - A group of owls is called a parliament of owls
+- The sky used to be blue but now it's night time
 - A swallow can carry a coconut
 - The first computer virus was created in 1983.
 - A group of cats is called a clowder of cats
