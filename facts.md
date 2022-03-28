@@ -4,4 +4,4 @@
 - A group of cats is called a clowder of cats
 - The evolution and use of JavaScript, a language developed in 10 days back in 1995!
 - Dreamt, along with it's variations, is the only word in the english language that ends in "mt".
-- There are Nine million bicycles in Beijing
+- There are nine million bicycles in Beijing
